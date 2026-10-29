@@ -1,6 +1,8 @@
 # Ford Car Price Prediction Using Generative AI and Machine Learning
 This project explores how Generative AI can help write Python code to prepare and analyze data and build machine learning models for predicting Ford car resale prices. It involves cleaning the dataset, exploring car sales data, identifying price outliers, and comparing different regression models, including linear, polynomial, and Ridge regression. Finally, GridSearchCV is used to find the best hyperparameter for the Ridge regression model and improve its prediction accuracy.
 
+Source: éLearning from Coursera - Final Project](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedWidget/NPDYk/reading-final-project-overview)
+
 ## Project Scenario
 
 You have been hired as a Data Scientist by a consultancy firm that serves a resale car dealer. The dealer specializes in Ford cars and wants your firm to develop a model that can predict the optimal quotation price for the cars in its inventory.
